@@ -1,0 +1,13 @@
+/* *****************************************************
+
+    ** Custom Stylesheet **
+
+    Any custom styling you want to apply should be
+    defined here.
+
+***************************************************** */
+
+
+[data-color=pink] ::selection {
+    background: #f29313 !important
+}
