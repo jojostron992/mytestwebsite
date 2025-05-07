@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="024827c9-df1e-47da-a48c-ecb23bffc0f3" name="Changes" comment="" />
+    <list default="true" id="024827c9-df1e-47da-a48c-ecb23bffc0f3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +33,7 @@
     "JavaScript Debug.database.html.executor": "Run",
     "JavaScript Debug.ddos.html.executor": "Run",
     "JavaScript Debug.developer.html.executor": "Run",
+    "JavaScript Debug.e-commerce_applications.html.executor": "Run",
     "JavaScript Debug.elements.html.executor": "Run",
     "JavaScript Debug.gsuite.html.executor": "Run",
     "JavaScript Debug.header.html.executor": "Run",
@@ -42,9 +45,10 @@
     "JavaScript Debug.knowledgebase-list.html.executor": "Run",
     "JavaScript Debug.ssl.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/karen/Downloads/antler-3_0/template",
+    "last_opened_file_path": "C:/Users/karen/Downloads/Getur/Updatix",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,6 +85,7 @@
       <workItem from="1746207185510" duration="13000" />
       <workItem from="1746467372650" duration="463000" />
       <workItem from="1746557260539" duration="1300000" />
+      <workItem from="1746563193776" duration="29000" />
     </task>
     <servers />
   </component>
